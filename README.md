@@ -5,7 +5,7 @@ A comprehensive blueprint tracking my journey from Linux fundamentals to advance
 ---
 
 ## 🏗️ The Linux System Architecture
-
+ 
 In an enterprise cloud setup, Linux forms the bedrock. Everything from OpenStack Horizon dashboards to isolated hypervisor containers interfaces directly with standard Linux kernel abstractions. Understanding how the system map paths out files is critical to running infrastructure services.
 
 <Image src="image_agent_tag_6869010592689893017" alt="Linux directory hierarchy displaying root subfolders like bin, boot, dev, etc, and home" caption="Linux File System Hierarchy Structural Mapping" />
